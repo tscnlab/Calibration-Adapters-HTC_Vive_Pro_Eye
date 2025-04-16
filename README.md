@@ -10,6 +10,10 @@
 ² Fine Mechanical Workshop, Max Planck Institute for Biological Cybernetics, Tübingen, Germany  
 ³ Chronobiology and Health, TUM School of Medicine and Health, Technical University of Munich, Munich, Germany
 
+### Citation
+
+For citation, see the `CITATION.cff` file.
+
 ### Included files
 
 The following files are included with this technical note:
@@ -33,3 +37,5 @@ The following files are included with this technical note:
   - `render_temporal_adapter_top.jpg`  
 
 - `LICENSE.txt`: Licensing terms
+
+- `CITATION.cff`: Citation information

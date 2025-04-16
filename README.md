@@ -10,7 +10,7 @@
 ² Fine Mechanical Workshop, Max Planck Institute for Biological Cybernetics, Tübingen, Germany  
 ³ Chronobiology and Health, TUM School of Medicine and Health, Technical University of Munich, Munich, Germany
 
-## Included files
+### Included files
 
 The following files are included with this technical note:
 

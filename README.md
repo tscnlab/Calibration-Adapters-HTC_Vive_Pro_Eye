@@ -16,7 +16,7 @@ For citation, see the `CITATION.cff` file.
 
 APA reference:
 
-> Fernandez-Alonso, M., Guidolin, C., Baum, A., Romanowski, J., Scheu, M., & Spitschan, M. (2025). 3D-printed adapters for standardized radiometric, photometric and temporal display calibration measurements of the HTC Vive Pro Eye virtual reality headset [Technical note]
+> Fernandez-Alonso, M., Guidolin, C., Baum, A., Romanowski, J., Scheu, M., & Spitschan, M. (2025). 3D-printed adapters for standardized radiometric, photometric and temporal display calibration measurements of the HTC Vive Pro Eye virtual reality headset [Technical note]. Zenodo. https://doi.org/10.5281/zenodo.15229215
 
 ### Included files
 

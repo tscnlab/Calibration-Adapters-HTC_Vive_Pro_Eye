@@ -1,0 +1,56 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  3D-printed adapters for standardized radiometric,
+  photometric and temporal display calibration measurements
+  of the HTC Vive Pro Eye virtual reality headset
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Maydel
+    family-names: Fernandez-Alonso
+    email: maydel.fernandez.alonso@tuebingen.mpg.de
+    affiliation: >-
+      Max Planck Research Group Translational Sensory and
+      Circadian Neuroscience, Max Planck Institute for
+      Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0002-3179-7476'
+  - given-names: Carolina
+    family-names: Guidolin
+    email: carolina.guidolin@tuebingen.mpg.de
+    affiliation: >-
+      Max Planck Research Group Translational Sensory and
+      Circadian Neuroscience, Max Planck Institute for
+      Biological Cybernetics
+    orcid: 'https://orcid.org/0009-0007-4959-2667'
+  - given-names: Alexander
+    family-names: Baum
+    email: alexander.baum@tuebingen.mpg.de
+    affiliation: >-
+      Fine Mechanical Workshop, Max Planck Institute for
+      Biological Cybernetics
+  - given-names: Jannick
+    family-names: Romanowski
+    email: jannick.romanowski@tuebingen.mpg.de
+    affiliation: >-
+      Fine Mechanical Workshop, Max Planck Institute for
+      Biological Cybernetics
+  - given-names: Markus
+    family-names: Scheu
+    email: markus.scheu@tuebingen.mpg.de
+    affiliation: >-
+      Fine Mechanical Workshop, Max Planck Institute for
+      Biological Cybernetics
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tuebingen.mpg.de
+    affiliation: >-
+      Max Planck Research Group Translational Sensory and
+      Circadian Neuroscience, Max Planck Institute for
+      Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+license: CC-BY-4.0

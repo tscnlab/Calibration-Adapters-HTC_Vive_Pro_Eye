@@ -55,3 +55,6 @@ authors:
     orcid: 'https://orcid.org/0000-0002-8572-9268'
 license: CC-BY-4.0
 date-released: 2025-04-16
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15229214
